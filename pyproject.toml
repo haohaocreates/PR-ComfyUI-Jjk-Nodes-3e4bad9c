@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-jjk-nodes"
+description = "Nodes: SDXLRecommendedImageSize, JjkText, JjkShowText, JjkConcat. A set of custom nodes for ComfyUI - focused on text and parameter utility"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/jjkramhoeft/ComfyUI-Jjk-Nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Jjk-Nodes"
+Icon = ""
